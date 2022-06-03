@@ -7,7 +7,7 @@ Aplicativo educativo que apresenta características do folclore brasileiro. Dese
 
 ## Contatos
 - Patrick Neri de Oliveira - https://www.linkedin.com/in/patrick-neri-de-oliveira/
-- Profº Bruno - bruno,rodrigues@fit-tecnologia.org.br
+- Profº Bruno - bruno.rodrigues@fit-tecnologia.org.br
 - Profª Rita - https://www.linkedin.com/in/rita-barbosa-074641/
 
 # Referência das Imagens e Conteúdos:
