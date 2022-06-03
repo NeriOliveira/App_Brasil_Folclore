@@ -2,11 +2,11 @@
 
 Aplicativo educativo que apresenta características do folclore brasileiro. Desenvolvido por Patrick Neri de Oliveira, orientado pelo Professor Bruno Rafael Rodrigues e Professora Rita Barbosa, instrutor do FIT Instituto de Tecnologia, do curso Trilha Starter Desenvolvimento de Sistemas para Rede IoT.
 
-## Link para Download do APP:
+## Link para Download do APP (.apk):
 - https://drive.google.com/file/d/19tec5h1u_EE7_-a5ZYYh-tYWSYli2cd8/view
 
 ## Contatos
-- Patrick Neri de Oliveira - 
+- Patrick Neri de Oliveira - https://www.linkedin.com/in/patrick-neri-de-oliveira/
 - Profº Bruno - bruno,rodrigues@fit-tecnologia.org.br
 - Profª Rita - https://www.linkedin.com/in/rita-barbosa-074641/
 
