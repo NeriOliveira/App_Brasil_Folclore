@@ -1,6 +1,6 @@
 # brasil_folclore_app
 
-Aplicativo educativo que apresenta características do folclore brasileiro. Desenvolvido por Patrick Neri de Oliveira, orientado pelo Professor Bruno Rafael Rodrigues, instrutor do FIT Instituto de Tecnologia, do curso Trilha Starter Desenvolvimento de Sistemas para Rede IoT.
+Aplicativo educativo que apresenta características do folclore brasileiro. Desenvolvido por Patrick Neri de Oliveira, orientado pelo Professor Bruno Rafael Rodrigues e Professora Rita Barbosa, instrutor do FIT Instituto de Tecnologia, do curso Trilha Starter Desenvolvimento de Sistemas para Rede IoT.
 
 # Referência das Imagens e Conteúdos:
 
