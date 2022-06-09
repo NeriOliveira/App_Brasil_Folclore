@@ -5,6 +5,9 @@ Aplicativo educativo que apresenta características do folclore brasileiro. Dese
 ## Link para Download do APP (.apk):
 - https://drive.google.com/file/d/19tec5h1u_EE7_-a5ZYYh-tYWSYli2cd8/view
 
+## Demonstração:
+- https://www.youtube.com/watch?v=7rPjd8FG900
+
 ## Contatos
 - Patrick Neri de Oliveira - https://www.linkedin.com/in/patrick-neri-de-oliveira/
 - Profº Bruno - bruno.rodrigues@fit-tecnologia.org.br
